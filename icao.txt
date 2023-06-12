@@ -1,2 +1,2 @@
-KLAX;Los Angeles International Airport;https://www.youtube.com/watch?v=Q9zwUZr6yPA
-KMDW;Chicago Midway International Airport;https://www.youtube.com/watch?v=NPuEuKJjnOo
+KJFK;John F Kennedy International Airport Tower;https://www.liveatc.net/play/kjfk_twr.pls
+RJTT;Tokyo International Airport App/Dep;https://www.liveatc.net/play/rjtt_app_dep.pls
